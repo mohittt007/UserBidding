@@ -1,4 +1,4 @@
-package com.cars24.UserBidding;
+package com.cars24.bidding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
